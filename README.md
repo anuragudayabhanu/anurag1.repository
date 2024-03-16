@@ -1,2 +1,3 @@
-# anurag1.repository
-This is my first github repository.
+#Anurag-demo
+This is my first git repository
+Author-Anurag udayabhanu
